@@ -2,11 +2,14 @@
 Here are a few of my code samples from my Data Science Certificate Program
 
 ### Jittered Head Count - Analyze Casino Game Data
+https://github.com/ilanazim/Code-Samples/blob/master/JitteredHeadCount/JitteredHeadCount.csv
+
 * General Data Exploration given information on various caisno games, headcount, and date/time 
 * Generate stats and data visuations surrounding data
 * Describe major findings
 
 ### Parkinsons - Primary Component Regression
+https://github.com/ilanazim/Code-Samples/blob/master/Parkinsons/homework7_IlanaZimmerman.ipynb
 
 About the data: This dataset is composed of a range of biomedical voice measurements from 42 people with early-stage Parkinson's disease recruited to a six-month trial of a telemonitoring device for remote symptom progression monitoring. The recordings were automatically captured in the patient's homes.
 
@@ -17,7 +20,8 @@ _Steps:_
 * Create the principle components and do a simple plot of the explained variance.
 * PCR - Linear regression with the principle components.
 
-### Wine - Machine Learning and Wine Classification 
+### Wine - Machine Learning and Wine Classification
+https://github.com/ilanazim/Code-Samples/blob/master/Wine/ML_SpringQuarter_Asignment02_IlanaZimmerman.ipynb
 
 _Questions Answered_
 * What is the percentage of correct classification results (using all attributes)?
@@ -28,8 +32,11 @@ _Questions Answered_
 * Which are the the minimum number of attributes? Why?
 
 ### Soccer Game Simulaiton - Write/Run Simulation to Determine Number of Goals Seen
+https://github.com/ilanazim/Code-Samples/blob/master/Soccer_Game_Simulation.ipynb
 
 ### Monty Hall Probability - How to Win the Prize (most of the time)
+https://github.com/ilanazim/Code-Samples/blob/master/monty_hall_probabilities.ipynb
+
 From a TV Game Show "Let's Make a Deal," you're given three doors and one prize.
 You're then told to pick one door and subsequently shown one of the two remaining doors without the prize.
 Do you switch doors from your original door? Does is matter?
